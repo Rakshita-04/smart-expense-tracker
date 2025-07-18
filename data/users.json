@@ -1,0 +1,23 @@
+[
+  {
+    "id": "b490f094-e23b-490f-a9e0-dea4333eceac",
+    "username": "abc",
+    "email": "abc@example.com",
+    "password": "abcdefghij",
+    "createdAt": "2025-06-29T05:47:34.389Z"
+  },
+  {
+    "id": "7e32321d-461b-431a-ab62-53a14a700512",
+    "username": "xyz",
+    "email": "xyz@example.com",
+    "password": "xyz12345678",
+    "createdAt": "2025-06-29T05:54:28.943Z"
+  },
+  {
+    "id": "cc48594b-aa57-47bc-af51-cc15c62ada61",
+    "username": "demo",
+    "email": "demo@example.com",
+    "password": "demo@123",
+    "createdAt": "2025-06-30T05:17:16.534Z"
+  }
+]

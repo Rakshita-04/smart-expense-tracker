@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1606aa33-329c-4ae8-bc09-fea5aae5c633",
+    "title": "Daily-Needs",
+    "amount": 5000,
+    "category": "Shopping",
+    "date": "2025-06-29",
+    "userId": "b490f094-e23b-490f-a9e0-dea4333eceac",
+    "createdAt": "2025-06-29T05:50:14.560Z"
+  },
+  {
+    "id": "97b507d5-7010-4162-b954-ba2c625db602",
+    "title": "Transport",
+    "amount": 10000,
+    "category": "Transportation",
+    "date": "2025-06-12",
+    "userId": "b490f094-e23b-490f-a9e0-dea4333eceac",
+    "createdAt": "2025-06-29T05:52:19.448Z"
+  },
+  {
+    "id": "3d4dddd2-33a2-4fb6-b4ec-ae0615aa4aa2",
+    "title": "Travel",
+    "amount": 25000,
+    "category": "Travel",
+    "date": "2025-07-04",
+    "userId": "b490f094-e23b-490f-a9e0-dea4333eceac",
+    "createdAt": "2025-06-29T05:52:58.527Z"
+  },
+  {
+    "id": "17b0463e-ec2f-4ca1-99da-8706f5665158",
+    "title": "Daily-Needs",
+    "amount": 9800,
+    "category": "Food & Dining",
+    "date": "2025-06-30",
+    "userId": "cc48594b-aa57-47bc-af51-cc15c62ada61",
+    "createdAt": "2025-06-30T05:17:53.073Z"
+  },
+  {
+    "id": "ec988b34-1796-49a9-adf3-2c95dfd14a3f",
+    "title": "Transport",
+    "amount": 150000,
+    "category": "Transportation",
+    "date": "2025-06-15",
+    "userId": "cc48594b-aa57-47bc-af51-cc15c62ada61",
+    "createdAt": "2025-06-30T05:18:27.667Z"
+  },
+  {
+    "id": "5d96bad9-8ca1-4490-8126-05fa6b569939",
+    "title": "Travel",
+    "amount": 2500,
+    "category": "Transportation",
+    "date": "2025-06-30",
+    "userId": "cc48594b-aa57-47bc-af51-cc15c62ada61",
+    "createdAt": "2025-06-30T05:18:51.751Z"
+  },
+  {
+    "id": "92357c64-8696-4ded-b72c-0480522a688d",
+    "title": "Travel",
+    "amount": 15000,
+    "category": "Travel",
+    "date": "2025-06-30",
+    "userId": "cc48594b-aa57-47bc-af51-cc15c62ada61",
+    "createdAt": "2025-06-30T05:19:37.554Z"
+  }
+]
