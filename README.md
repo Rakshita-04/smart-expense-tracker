@@ -7,7 +7,8 @@
 A modern web application to track, categorize, and analyze your expenses with ease. Stay financially organized with insightful analytics and a clean, responsive design.
 
 ### 🔗Live Demo
-smart-expense-tracker-smoky.vercel.app
+[smart-expense-tracker-smoky.vercel.app](https://smart-expense-tracker-smoky.vercel.app)
+
 
 ### 📖Project Description  
 
@@ -35,8 +36,28 @@ Whether it’s daily coffee runs, monthly subscriptions, or overall budget plann
 - **Database :** Local JSON
 - **Deployment:** Vercel
 
- 
----
+### 📂Project Structure  
+smart-expense-tracker/
+├── app/ # Next.js App Router (layout, pages, etc.)
+│ ├── api/ # API routes (backend logic if used)
+│ ├── globals.css # Global styles
+│ ├── layout.tsx # Root layout
+│ └── page.tsx # Main landing page
+├── components/ # Reusable UI components
+│ └── ui/ # ShadCN/UI based components (buttons, cards, forms, etc.)
+├── data/ # Static JSON data (expenses.json, users.json)
+├── hooks/ # Custom React hooks
+├── lib/ # Utility functions
+├── public/ # Public assets (logos, images, placeholders)
+├── styles/ # Styling files (Tailwind + CSS)
+├── .gitignore # Git ignore rules
+├── components.json # ShadCN components config
+├── next.config.mjs # Next.js configuration
+├── package.json # Dependencies & scripts
+├── tsconfig.json # TypeScript configuration
+├── tailwind.config.ts # Tailwind CSS config
+└── README.md # Documentation
+
 
 ## ⚙️ Installation & Setup  
 
@@ -67,8 +88,7 @@ npm start
 
 This project is deployed on Vercel. To deploy your own instance:
 
-1.Push the project to GitHub
-2.Go to Vercel and import your repo
-3.Add environment variables in the Vercel dashboard
-4.Deploy with a single click 🎉
-
+- Push the project to GitHub
+- Go to Vercel and import your repo  
+- Add environment variables in the Vercel dashboard  
+- Deploy with a single click 
