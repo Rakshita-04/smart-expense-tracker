@@ -36,30 +36,8 @@ Whether it’s daily coffee runs, monthly subscriptions, or overall budget plann
 - **Database :** Local JSON
 - **Deployment:** Vercel
 
-### 📂Project Structure  
-smart-expense-tracker/
-├── app/ # Next.js App Router (layout, pages, etc.)
-│ ├── api/ # API routes (backend logic if used)
-│ ├── globals.css # Global styles
-│ ├── layout.tsx # Root layout
-│ └── page.tsx # Main landing page
-├── components/ # Reusable UI components
-│ └── ui/ # ShadCN/UI based components (buttons, cards, forms, etc.)
-├── data/ # Static JSON data (expenses.json, users.json)
-├── hooks/ # Custom React hooks
-├── lib/ # Utility functions
-├── public/ # Public assets (logos, images, placeholders)
-├── styles/ # Styling files (Tailwind + CSS)
-├── .gitignore # Git ignore rules
-├── components.json # ShadCN components config
-├── next.config.mjs # Next.js configuration
-├── package.json # Dependencies & scripts
-├── tsconfig.json # TypeScript configuration
-├── tailwind.config.ts # Tailwind CSS config
-└── README.md # Documentation
 
-
-## ⚙️ Installation & Setup  
+### ⚙️Installation & Setup  
 
 1. **Clone the repository**  
 
@@ -91,4 +69,31 @@ This project is deployed on Vercel. To deploy your own instance:
 - Push the project to GitHub
 - Go to Vercel and import your repo  
 - Add environment variables in the Vercel dashboard  
-- Deploy with a single click 
+- Deploy with a single click
+- ## 📂 Project Structure
+<details>
+<summary>Click to expand 📁</summary>
+
+```plaintext
+Smart-Expense-Tracker
+├── app/ # Next.js App Router (layout, pages, etc.)
+│ ├── api/ # API routes (backend logic if used)
+│ ├── globals.css # Global styles
+│ ├── layout.tsx # Root layout
+│ └── page.tsx # Main landing page
+├── components/ # Reusable UI components
+│ └── ui/ # ShadCN/UI based components (buttons, cards, forms, etc.)
+├── data/ # Static JSON data (expenses.json, users.json)
+├── hooks/ # Custom React hooks
+├── lib/ # Utility functions
+├── public/ # Public assets (logos, images, placeholders)
+├── styles/ # Styling files (Tailwind + CSS)
+├── .gitignore # Git ignore rules
+├── components.json # ShadCN components config
+├── next.config.mjs # Next.js configuration
+├── package.json # Dependencies & scripts
+├── tsconfig.json # TypeScript configuration
+├── tailwind.config.ts # Tailwind CSS config
+└── README.md # Documentation
+
+</details> ```
