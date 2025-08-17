@@ -96,4 +96,3 @@ Smart-Expense-Tracker
 ├── tailwind.config.ts # Tailwind CSS config
 └── README.md # Documentation
 
-</details> ```
